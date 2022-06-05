@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yaza/static/css/main.073c9b0a.css",
+    "main.js": "/yaza/static/js/main.73f1d5d3.js",
+    "static/media/night_sky.jpeg": "/yaza/static/media/night_sky.110a040bb39c80e368cc.jpeg",
+    "static/media/logo.png": "/yaza/static/media/logo.256904650d9371b3ce8e.png",
+    "index.html": "/yaza/index.html",
+    "main.073c9b0a.css.map": "/yaza/static/css/main.073c9b0a.css.map",
+    "main.73f1d5d3.js.map": "/yaza/static/js/main.73f1d5d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73f1d5d3.js"
+  ]
+}
